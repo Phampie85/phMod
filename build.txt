@@ -1,0 +1,3 @@
+author = Phampie85
+version = 0.1
+displayName = Phampie Mod

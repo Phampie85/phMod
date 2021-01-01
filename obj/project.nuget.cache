@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjuBTK2d5XzMzD4NvlKifbSEradR5n+P8EPcMAPU1xshXwS6x8xM9dEP2bqYDfjzGqqGUoUfWGx+mNmLoQAzOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LastL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\phMod\\phMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LastL\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
